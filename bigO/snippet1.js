@@ -15,7 +15,7 @@
 // console.log((t2-t1) /1000)  
 
 // algebraic notation
-function algebraic(n: number) {
+function algebraic(n) {
   return (n*(n+1) /2)
 }
 
